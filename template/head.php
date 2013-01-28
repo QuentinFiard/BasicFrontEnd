@@ -40,4 +40,4 @@ global $user;
 
     <body>
         <header>Mon header</header>
-	    <div id="content">
+	    <div id="contentWrapper">
